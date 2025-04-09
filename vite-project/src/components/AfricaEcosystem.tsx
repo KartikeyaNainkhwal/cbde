@@ -23,7 +23,7 @@ function AfricaEcosystem() {
             <div className="feature-card">
               <h3>Emerging Market Impact</h3>
               <p>
-                Built on Solana technology and leveraging Circle USDC infrastructure, Smartpay is an onchain payments
+                Built on Solana technology and leveraging Circle USDC infrastructure, Stablepay is an onchain payments
                 protocol for instant and cost-effective transactions
               </p>
             </div>
