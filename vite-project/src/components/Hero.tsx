@@ -11,7 +11,7 @@ function Hero() {
           </h1>
   
           <p className="hero-text">
-            Built on Solana technology and leveraging Circle USDC infrastructure, Smartpay is a new payment method
+            Built on Solana technology and leveraging Circle USDC infrastructure, Stablepay is a new payment method
             protocol for instant and cost-effective transactions.
           </p>
   
