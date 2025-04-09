@@ -44,7 +44,7 @@ function Api() {
               Contact Us
             </Link>
             <Link
-              to="/site"
+              to="/"
               className="site-link"
             >
               Go to Site <ArrowRight className="arrow-icon" />
