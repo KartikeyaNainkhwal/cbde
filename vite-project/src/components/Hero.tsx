@@ -19,7 +19,6 @@ function Hero() {
             <button className="btn btn-primary">
               Request Access <span className="icon">↗</span>
             </button>
-            <button className="btn btn-outline">Ecosystem</button>
           </div>
         </div>
       </section>
