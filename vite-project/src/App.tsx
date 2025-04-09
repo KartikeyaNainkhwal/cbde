@@ -9,8 +9,8 @@ function App() {
       <main>
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/api" element={<Api />} />
-          <Route path="/contactus" element={<ContactForm/>} />
+          <Route path="/api" element={<APi />} />
+          <Route path="/contactus" element={<ContactForm />} />
         </Routes>
       </main>
     </Router>
