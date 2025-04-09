@@ -25,7 +25,7 @@ function Api() {
                   />
                 </svg>
               </div>
-              <span className="logo-text">Smartpay</span>
+              <span className="logo-text">Stablepay</span>
             </Link>
           </div>
           <div className="search-section">
@@ -125,9 +125,9 @@ function Api() {
             <div className="content-header">
               <h1 className="title">Introduction</h1>
               <p className="subtitle">
-                Smartpay is an on-chain protocol enabling fintech wallets to accept and transfer digital dollar
+                Stablepay is an on-chain protocol enabling fintech wallets to accept and transfer digital dollar
                 payments instantly and cost effectively. Built on Solana technology and leveraging Circle
-                infrastructure, Smartpay is a next generation protocol for a new era of payments across Africa.
+                infrastructure, Stablepay is a next generation protocol for a new era of payments across Africa.
               </p>
             </div>
             <div className="hero-image">
@@ -147,7 +147,7 @@ function Api() {
                       fill="#00C2FF"
                     />
                   </svg>
-                  <span className="hero-text">Smartpay</span>
+                  <span className="hero-text">Stablepay</span>
                 </div>
               </div>
             </div>
