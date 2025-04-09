@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import Home from './pages/Home.js'
 import Api from './pages/APi.js'
-import ContactForm from './pages/ContactForm.js'
+import ContactForm from './pages/ContactForm.tsx'
 function App() {
   return (
     <div>
