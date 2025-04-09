@@ -37,7 +37,7 @@ function ProtocolFeatures() {
         <div className="container">
           <div className="section-header">
             <span className="section-subtitle">Protocol Features</span>
-            <h2 className="section-title">Smartpay Protocol</h2>
+            <h2 className="section-title">Stablepay Protocol</h2>
           </div>
   
           <div className="features-grid">
