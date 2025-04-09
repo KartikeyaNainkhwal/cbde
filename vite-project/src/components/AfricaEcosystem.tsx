@@ -2,7 +2,7 @@ function AfricaEcosystem() {
     return (
       <section className="africa-ecosystem">
         <div className="container">
-          <h2 className="section-title">Africa Ecosystem Focus</h2>
+          <h2 className="section-title">Global Ecosystem Focus</h2>
   
           <div className="features-grid">
             <div className="feature-card">
