@@ -22,7 +22,7 @@ function Header() {
               />
               <path d="M28 8L23 14H28V8Z" fill="#06B6D4" />
             </svg>
-            <span className="logo-text">Smartpay</span>
+            <span className="logo-text">Stablepay</span>
           </Link>
 
           <nav className="nav">
